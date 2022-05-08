@@ -10,7 +10,7 @@ player vs ai screen
 ![image](https://user-images.githubusercontent.com/88571564/167301316-7a8a10d9-6b87-42f3-93e7-ecde411840a8.png)
 
 
-I bulit this code after referring to an article from geek for geeks. It was a 3x3 board, i just changed it to 5x5 board adding the win conditions and also gave time delay as an add on.
+I built this code after referring to an article from geek for geeks. It was a 3x3 board, i just changed it to 5x5 board adding the win conditions and also gave time delay as an add on.
 
 link: https://www.geeksforgeeks.org/tic-tac-toe-game-with-gui-using-tkinter-in-python/
 
